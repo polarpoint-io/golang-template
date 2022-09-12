@@ -2,6 +2,10 @@
     <img height="80" width="160" src="./assets/gopher-icon.gif" alt="Go"><br>Backend Template
 </h1>
 
+# ${{values.component_id}}
+
+${{values.description}}
+
 > Clean architecture based backend template in Go.
 
 ## Makefile
